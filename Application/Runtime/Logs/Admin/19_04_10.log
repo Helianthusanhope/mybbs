@@ -1,0 +1,80 @@
+[ 2019-04-10T15:47:35+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: syntax error, unexpected ''autoSub'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2019-04-10T16:03:32+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: Call to a member function uploads() on null
+
+[ 2019-04-10T16:06:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: Call to a member function upload() on null
+
+[ 2019-04-10T17:20:28+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+
+[ 2019-04-10T18:21:00+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=create
+ERR: Class 'Admin\Controller\Controller' not found
+
+[ 2019-04-10T18:24:39+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=create
+ERR: Class 'Admin\Controller\Controller' not found
+
+[ 2019-04-10T18:26:45+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=create
+ERR: Class 'Admin\Controller\Controller' not found
+
+[ 2019-04-10T19:00:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=save
+ERR: 无法加载控制器:Part
+
+[ 2019-04-10T20:11:15+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=update&pid=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bbs_part` SET `pname`='热门电影' WHERE ( pid= )
+
+[ 2019-04-10T20:12:24+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=update&pid=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bbs_part` SET `pname`='热门电影' WHERE ( pid= )
+
+[ 2019-04-10T20:15:04+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=update&pid=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bbs_part` SET `pname`='热门电影' WHERE ( pid= )
+
+[ 2019-04-10T20:15:21+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=update&pid=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bbs_part` SET `pname`='热门电影' WHERE ( pid= )
+
+[ 2019-04-10T20:16:20+08:00 ] 127.0.0.1 /index.php?m=admin&c=part&a=update&pid=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bbs_part` SET `pname`='热门电影' WHERE ( pid= )
+
+[ 2019-04-10T21:36:22+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=index
+ERR: 1054:Unknown column 'uid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bbs_part` WHERE ( uid=3 ) 
+
+[ 2019-04-10T21:36:42+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=index
+ERR: 1054:Unknown column 'uid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bbs_part` WHERE ( uid=3 ) 
+
+[ 2019-04-10T21:37:44+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=index
+ERR: 1054:Unknown column 'uid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bbs_part` WHERE ( uid in(3) ) 
+
+[ 2019-04-10T21:55:38+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T21:55:47+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit2
+ERR: 非法操作:edit2
+
+[ 2019-04-10T21:58:55+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T22:00:16+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T22:01:43+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T22:02:57+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T22:03:51+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+
+[ 2019-04-10T22:03:55+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=edit1
+ERR: 非法操作:edit1
+

@@ -1,0 +1,560 @@
+[ 2019-04-09T14:10:45+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.010000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.4090s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.016001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.234014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.234014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2019-04-09T14:12:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-04-09T14:12:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-04-09T14:12:17+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=w&keywords=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:24:45+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=w&keywords=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2019-04-09T14:25:25+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=w&keywords=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:26:29+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=asa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:26:48+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:27:54+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-04-09T14:30:07+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bbs_user` WHERE `sex` = 'm'  [ RunTime:0.0840s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:30:19+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bbs_user`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-09T14:30:51+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=w&uname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bbs_user` WHERE `sex` = 'w'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+NOTIC: [8] Undefined index: created_at D:\xampp\htdocs\mybbs\Application\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-04-09T14:30:57+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0050s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:34:29+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+
+[ 2019-04-09T14:35:55+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+
+[ 2019-04-09T14:35:56+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+
+[ 2019-04-09T14:35:56+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  LIKE ) AND (  %博% ) 
+
+[ 2019-04-09T14:44:49+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `bbs_user` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:46:44+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:48:16+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:48:49+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:49:13+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=&uname=%E5%8D%9A
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:50:03+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%8D%9A
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %博% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %博% ) 
+
+[ 2019-04-09T14:51:55+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'like ) AND (  %小% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  like ) AND (  %小% ) 
+
+[ 2019-04-09T14:53:05+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%小% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  lile ) AND (  %小% ) 
+
+[ 2019-04-09T15:01:18+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%小% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  lile ) AND (  %小% ) 
+
+[ 2019-04-09T15:02:02+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1054:Unknown column 'lile' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  lile ) AND (  '%小%' ) 
+
+[ 2019-04-09T15:02:47+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%'小'% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  lile ) AND (  %'小'% ) 
+
+[ 2019-04-09T15:04:15+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%'小'% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE (  lile ) AND (  %'小'% ) 
+
+[ 2019-04-09T15:07:15+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index&sex=m&uname=%E5%B0%8F
+ERR: 表达式错误:lile
+
+[ 2019-04-09T15:35:47+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: syntax error, unexpected '.5' (T_DNUMBER), expecting ')'
+
+[ 2019-04-09T15:36:09+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: Call to a member function show() on null
+
+[ 2019-04-09T15:36:57+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: Call to a member function show() on null
+
+[ 2019-04-09T15:36:58+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=index
+ERR: Call to a member function show() on null
+
+[ 2019-04-09T17:18:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:25:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:25:37+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:26:23+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:29:07+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:29:26+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:29:49+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
+[ 2019-04-09T17:31:18+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: 不存在的图像文件
+
