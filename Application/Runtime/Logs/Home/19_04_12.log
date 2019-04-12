@@ -1,0 +1,150 @@
+[ 2019-04-12T15:41:00+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : SELECT * FROM `` 
+
+[ 2019-04-12T15:41:24+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: 1146:Table 'mybbs.$bbs_part' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `$bbs_part`
+
+[ 2019-04-12T15:46:41+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:10+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:13+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:15+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:15+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:15+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:48:15+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:53:00+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T15:56:13+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')', expecting '['
+
+[ 2019-04-12T16:19:24+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ';', expecting ']'
+
+[ 2019-04-12T16:20:59+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ';', expecting ']'
+
+[ 2019-04-12T16:34:43+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=9
+ERR: 模板不存在:./Application/Home/View/Post/index.html
+
+[ 2019-04-12T16:34:47+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=7
+ERR: 模板不存在:./Application/Home/View/Post/index.html
+
+[ 2019-04-12T16:40:36+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=2
+ERR: 模板不存在:./Application/Home/View/Post/index.html
+
+[ 2019-04-12T16:48:39+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T17:01:18+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:01:58+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:02:09+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:03:10+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:05:27+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:06:45+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:07:54+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:11:42+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:12:24+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:13:13+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:13:24+08:00 ] 127.0.0.1 /index.php?m=home&c=log&a=register
+ERR: 无法加载控制器:Log
+
+[ 2019-04-12T17:29:12+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T17:39:51+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=register
+ERR: syntax error, unexpected ']'
+
+[ 2019-04-12T19:47:18+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=register
+ERR: 1062:Duplicate entry '111' for key 'uname'
+ [ SQL语句 ] : INSERT INTO `bbs_user` (`uname`,`upwd`,`tel`,`create_at`,`auth`) VALUES ('111','666','666','1555069638','3')
+
+[ 2019-04-12T19:58:52+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=dologin
+ERR: Call to undefined function Home\Controller\password_verity()
+
+[ 2019-04-12T20:08:53+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=logout
+ERR: 非法操作:logout
+
+[ 2019-04-12T20:27:36+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=2
+ERR: 非法操作:index
+
+[ 2019-04-12T20:33:39+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T20:33:51+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T20:33:56+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T20:38:29+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=2
+ERR: 非法操作:index
+
+[ 2019-04-12T20:46:09+08:00 ] 127.0.0.1 /index.php?m=home&c=post&cid=2
+ERR: 非法操作:index
+
+[ 2019-04-12T21:07:28+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T21:12:42+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1146:Table 'mybbs.b_b_s-post' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `b_b_s-post`
+
+[ 2019-04-12T21:13:11+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1146:Table 'mybbs.b_b_s-post' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `b_b_s-post`
+
+[ 2019-04-12T21:13:24+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1146:Table 'mybbs.b_b_s-post' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `b_b_s-post`
+
+[ 2019-04-12T21:50:14+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: syntax error, unexpected ';'
+
+[ 2019-04-12T21:53:28+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected ';'
+
+[ 2019-04-12T21:53:52+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-04-12T21:54:48+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-04-12T21:54:49+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+

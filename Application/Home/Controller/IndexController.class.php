@@ -2,11 +2,41 @@
 namespace Home\Controller;
 
 use Think\Controller;
-
+// use Think\Page;
+// use Think\Image;
 class IndexController extends Controller
 {
-    public function index()
-    {
-        $this->show('<style type="text/css">*{ padding: 0; margin: 0; } div{ padding: 4px 48px;} body{ background: #fff; font-family: "微软雅黑"; color: #333;font-size:24px} h1{ font-size: 100px; font-weight: normal; margin-bottom: 12px; } p{ line-height: 1.8em; font-size: 36px } a,a:hover{color:blue;}</style><div style="padding: 24px 48px;"> <h1>:)</h1><p>欢迎使用 <b>ThinkPHP</b>！</p><br/>版本 V{$Think.version}</div><script type="text/javascript" src="http://ad.topthink.com/Public/static/client.js"></script><thinkad id="ad_55e75dfae343f5a1"></thinkad><script type="text/javascript" src="http://tajs.qq.com/stats?sId=9347272" charset="UTF-8"></script>','utf-8');
-    }
+	
+	public function index()
+	{
+		//获取分区信息
+	    $parts = M('bbs_part')->select();
+	    //把 分区数组的下标 用 其中的pid 代替
+	    $parts = array_column($parts,null,'pid');
+	    //获取板块信息
+	    $cates = M('bbs_cate')->select();
+
+	 	//echo "<pre>";
+		// print_r($cates);
+	    //把 板块信息 追加到 分区信息 中
+	    foreach ($cates as $cate) {
+	    	$parts[ $cate['pid'] ]  ['sub'] [] = $cate;
+	    }
+
+		//接收数据 先打印
+		// echo "<pre>";
+		// print_r($parts); die;
+		// var_dump($_get['xxoo']);
+		// die;
+		//和数据库相关 调用 add /delete/save/upload 时
+		// try{
+			// $row = M('bbs_part') -> add( $_POST );
+		// } catch(\Exception $e) {
+			// $this-> error( $e->getMessage() );
+		// }
+		$this->assign('parts',$parts);
+		$this->display();
+	}
+
+
 }
